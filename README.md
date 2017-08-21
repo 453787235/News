@@ -1,2 +1,2 @@
 # spider
-新闻爬虫蟒蛇，Redis的
+新闻爬虫python-Redis
